@@ -1,0 +1,45 @@
+#main {
+  background-color: lightgray;
+  margin: 10px;
+  border-radius: 5px;
+  text-align: center; 
+}
+
+#title {
+  color: rgb(74, 74, 99);
+}
+
+#img-div {
+  padding: 10px;
+  margin: 5px 5px;
+  border-radius: 5px;
+  background-color: beige;
+}
+
+#image {
+    max-width: 100%;
+    margin: 0 auto;
+    display: block;
+    height: auto;
+ }
+
+#img-caption {
+  margin: 15px 0 15px 0;
+  font-size: small;
+}
+
+section p {
+   padding: 5px 50px;
+ }
+
+.list {
+  text-align: left;
+    }
+
+ul {
+   text-align: left;
+    }
+
+blockquote {
+      font-style: italic;
+    }
